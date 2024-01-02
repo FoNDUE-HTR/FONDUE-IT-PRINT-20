@@ -15,88 +15,88 @@ automatically-aligned: false
 characters:
   members:
   - e
-  - t
-  - o
-  - n
   - a
   - i
+  - o
   - r
-  - s
-  - h
-  - d
+  - n
+  - t
   - l
+  - s
   - c
+  - d
   - u
-  - m
-  - f
-  - g
   - p
-  - ','
-  - y
-  - w
-  - b
+  - m
   - v
-  - .
-  - k
-  - '1'
-  - I
-  - ¬
-  - C
-  - S
-  - T
-  - '-'
-  - '9'
-  - A
-  - ;
-  - '8'
-  - M
-  - x
-  - '4'
-  - '2'
-  - /
-  - '6'
-  - N
-  - G
-  - R
-  - D
-  - q
-  - '0'
-  - '"'
-  - H
-  - E
-  - '5'
+  - ','
+  - g
+  - h
+  - f
+  - b
   - z
-  - P
-  - W
-  - U
-  - '7'
-  - (
-  - j
-  - )
-  - '3'
-  - B
+  - .
+  - ̀
+  - ¬
+  - q
+  - I
+  - '-'
+  - C
+  - A
   - "'"
+  - P
+  - '"'
+  - S
+  - M
+  - E
   - ’
   - L
-  - ':'
-  - Y
-  - O
+  - '='
+  - ;
+  - T
+  - R
+  - D
   - V
-  - Q
-  - –
-  - '?'
-  - F
-  - J
+  - O
+  - G
+  - N
+  - ':'
+  - '1'
+  - B
+  - '4'
+  - )
   - '!'
-  - K
-  - “
+  - (
   - '['
   - ']'
-  - X
+  - F
+  - Q
+  - '2'
+  - '0'
+  - '3'
+  - '9'
+  - '5'
+  - U
+  - '?'
+  - °
+  - ⬪
+  - '6'
+  - y
   - Z
-  - ́
-  - ”
+  - k
+  - ᗅ
+  - K
+  - x
+  - H
+  - '8'
+  - X
+  - W
   - —
+  - '7'
+  - “
+  - ᑕ
+  - ᗞ
+  - w
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-IT-PRINT-20/blob/master/CITATION.cff
 description: Archives
@@ -124,11 +124,11 @@ title: FONDUE-IT-PRINT-20
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-IT-PRINT-20
 volume:
-- count: 82834
+- count: 49432
   metric: characters
-- count: 30
+- count: 23
   metric: files
-- count: 1728
+- count: 1008
   metric: lines
-- count: 72
+- count: 48
   metric: regions
