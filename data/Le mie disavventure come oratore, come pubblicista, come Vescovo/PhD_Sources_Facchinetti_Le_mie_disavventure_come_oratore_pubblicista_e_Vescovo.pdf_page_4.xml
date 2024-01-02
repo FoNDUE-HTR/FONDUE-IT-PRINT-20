@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1749" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1750" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1801" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1802" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1749" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1750" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1801" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1802" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1892" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
     <OtherTag ID="LT692" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT693" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT694" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT695" LABEL="CustomLine:footnotes" DESCRIPTION="line type CustomLine:footnotes"/>
   </Tags>
   
@@ -384,23 +384,6 @@
 
           
           
-          <TextLine ID="eSc_line_e05cad96"
-                    TAGREFS="LT692"
-                    BASELINE="431 1278 2338 1289" 
-                    HPOS="429"
-                    VPOS="1232"
-                    WIDTH="1909"
-                    HEIGHT="71">
-            <Shape><Polygon POINTS="1339 1234 1312 1234 1284 1234 1257 1234 1229 1234 1202 1234 1174 1234 1147 1234 1119 1234 1092 1234 1064 1232 1037 1232 1009 1232 982 1232 954 1232 927 1232 899 1232 872 1232 844 1232 816 1232 789 1232 761 1232 734 1232 706 1232 679 1232 651 1232 624 1232 596 1232 569 1232 541 1232 514 1232 486 1232 459 1232 431 1232 431 1278 429 1292 2332 1303 2338 1289 2335 1245 1383 1234 1367 1234"/></Shape>
-	    <String CONTENT="da, quindi, anche alla solerte Direzione l&#39;espressione della nostra ricono¬"
-                    HPOS="429"
-                    VPOS="1232"
-                    WIDTH="1909"
-                    HEIGHT="71"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_37e8b284"
                     TAGREFS="LT694"
                     BASELINE="1206 1261 1447 1264" 
@@ -414,6 +397,23 @@
                     VPOS="1232"
                     WIDTH="244"
                     HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e05cad96"
+                    TAGREFS="LT692"
+                    BASELINE="431 1278 2338 1289" 
+                    HPOS="429"
+                    VPOS="1232"
+                    WIDTH="1909"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1339 1234 1312 1234 1284 1234 1257 1234 1229 1234 1202 1234 1174 1234 1147 1234 1119 1234 1092 1234 1064 1232 1037 1232 1009 1232 982 1232 954 1232 927 1232 899 1232 872 1232 844 1232 816 1232 789 1232 761 1232 734 1232 706 1232 679 1232 651 1232 624 1232 596 1232 569 1232 541 1232 514 1232 486 1232 459 1232 431 1232 431 1278 429 1292 2332 1303 2338 1289 2335 1245 1383 1234 1367 1234"/></Shape>
+	    <String CONTENT="da, quindi, anche alla solerte Direzione l&#39;espressione della nostra ricono¬"
+                    HPOS="429"
+                    VPOS="1232"
+                    WIDTH="1909"
+                    HEIGHT="71"></String>
           </TextLine>
 
           
@@ -486,23 +486,6 @@
 
           
           
-          <TextLine ID="eSc_line_91c7e00c"
-                    TAGREFS="LT692"
-                    BASELINE="186 1552 282 1494" 
-                    HPOS="151"
-                    VPOS="1438"
-                    WIDTH="140"
-                    HEIGHT="124">
-            <Shape><Polygon POINTS="189 1562 291 1515 280 1493 239 1438 211 1465 203 1465 176 1465 173 1465 170 1465 167 1465 167 1468 165 1468 165 1471 151 1496 184 1551"/></Shape>
-	    <String CONTENT="il"
-                    HPOS="151"
-                    VPOS="1438"
-                    WIDTH="140"
-                    HEIGHT="124"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_b58c99c4"
                     TAGREFS="LT692"
                     BASELINE="434 1545 2313 1551" 
@@ -520,23 +503,6 @@
 
           
           
-          <TextLine ID="eSc_line_ebdb5f60"
-                    TAGREFS="LT692"
-                    BASELINE="209 1603 402 1500" 
-                    HPOS="178"
-                    VPOS="1441"
-                    WIDTH="231"
-                    HEIGHT="167">
-            <Shape><Polygon POINTS="203 1537 178 1545 206 1600 209 1608 409 1518 401 1498 365 1441 299 1498 220 1529 206 1540"/></Shape>
-	    <String CONTENT="Consiglio"
-                    HPOS="178"
-                    VPOS="1441"
-                    WIDTH="231"
-                    HEIGHT="167"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_38440404"
                     TAGREFS="LT692"
                     BASELINE="426 1597 2280 1597" 
@@ -550,23 +516,6 @@
                     VPOS="1545"
                     WIDTH="1854"
                     HEIGHT="74"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_46d173cd"
-                    TAGREFS="LT692"
-                    BASELINE="210 1660 412 1559" 
-                    HPOS="178"
-                    VPOS="1509"
-                    WIDTH="237"
-                    HEIGHT="168">
-            <Shape><Polygon POINTS="354 1523 332 1537 308 1548 283 1562 258 1573 233 1586 209 1600 200 1586 178 1597 209 1658 217 1677 415 1573 409 1556 385 1509 379 1509"/></Shape>
-	    <String CONTENT="Direttivo"
-                    HPOS="178"
-                    VPOS="1509"
-                    WIDTH="237"
-                    HEIGHT="168"></String>
           </TextLine>
 
           
@@ -1038,6 +987,57 @@
                    ID="eSc_textblock_f99c8bb6"
                    TAGREFS="BT1801">
           <Shape><Polygon POINTS="124 1418 124 1676 418 1676 418 1412"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_91c7e00c"
+                    TAGREFS="LT692"
+                    BASELINE="186 1552 282 1494" 
+                    HPOS="151"
+                    VPOS="1438"
+                    WIDTH="140"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="189 1562 291 1515 280 1493 239 1438 211 1465 203 1465 176 1465 173 1465 170 1465 167 1465 167 1468 165 1468 165 1471 151 1496 184 1551"/></Shape>
+	    <String CONTENT="il"
+                    HPOS="151"
+                    VPOS="1438"
+                    WIDTH="140"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ebdb5f60"
+                    TAGREFS="LT692"
+                    BASELINE="209 1603 402 1500" 
+                    HPOS="178"
+                    VPOS="1441"
+                    WIDTH="231"
+                    HEIGHT="167">
+            <Shape><Polygon POINTS="203 1537 178 1545 206 1600 209 1608 409 1518 401 1498 365 1441 299 1498 220 1529 206 1540"/></Shape>
+	    <String CONTENT="Consiglio"
+                    HPOS="178"
+                    VPOS="1441"
+                    WIDTH="231"
+                    HEIGHT="167"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46d173cd"
+                    TAGREFS="LT692"
+                    BASELINE="210 1660 412 1559" 
+                    HPOS="178"
+                    VPOS="1509"
+                    WIDTH="237"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="354 1523 332 1537 308 1548 283 1562 258 1573 233 1586 209 1600 200 1586 178 1597 209 1658 217 1677 415 1573 409 1556 385 1509 379 1509"/></Shape>
+	    <String CONTENT="Direttivo"
+                    HPOS="178"
+                    VPOS="1509"
+                    WIDTH="237"
+                    HEIGHT="168"></String>
+          </TextLine>
+
           
         </TextBlock>
         
