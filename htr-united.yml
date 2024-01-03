@@ -2,6 +2,7 @@ authors:
 - name: Simon
   orcid: 0000-0001-9094-4475
   roles:
+  - transcriber
   - project-manager
   - quality-control
   - support
@@ -98,7 +99,7 @@ characters:
   - w
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-IT-PRINT-20/blob/master/CITATION.cff
-description: Archives
+description: Archives and novels
 format: Alto-XML
 hands:
   count: unknown

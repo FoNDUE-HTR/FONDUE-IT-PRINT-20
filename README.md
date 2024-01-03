@@ -15,6 +15,12 @@ Archives:
 | Milan | Archivio Storico provinciale dei Frati Minori di Lombardia | _Le mie disavventure come oratore, come pubblicista, come Vescovo_ | 5 pages  | 1936-1950 | M. Zaglio     |
 | Milan | Archivio Storico provinciale dei Frati Minori di Lombardia | _Maledizione alla guerra_                                          | 5 pages  | 1936-1950 | M. Zaglio     |
 
+Books:
+
+| Author /editor    | Title                                                                       | Date | Publisher | Pages    | Transcription          |
+|-------------------|-----------------------------------------------------------------------------|------|-----------|----------|------------------------|
+| Luigi Pirandello  | [_Uno, nessuno e centomila_](https://books.google.it/books?id=fbEHAQAAIAAJ) | 1936 | Mondadori | 5 pages  | S. Gabay               |
+
 
 ## How to cite
 
