@@ -34,8 +34,8 @@ characters:
   - h
   - f
   - b
-  - z
   - .
+  - z
   - ̀
   - ¬
   - q
@@ -44,40 +44,41 @@ characters:
   - C
   - A
   - "'"
+  - ’
+  - M
   - P
+  - E
   - '"'
   - S
-  - M
-  - E
-  - ’
+  - ;
   - L
   - '='
-  - ;
   - T
   - R
+  - O
   - D
   - V
-  - O
   - G
-  - N
   - ':'
+  - N
   - '1'
-  - B
-  - '4'
-  - )
   - '!'
+  - B
+  - )
+  - —
+  - '4'
   - (
+  - F
   - '['
   - ']'
-  - F
   - Q
   - '2'
+  - '?'
   - '0'
   - '3'
   - '9'
   - '5'
   - U
-  - '?'
   - °
   - ⬪
   - '6'
@@ -87,12 +88,14 @@ characters:
   - ᗅ
   - K
   - x
+  - §
   - H
   - '8'
   - X
-  - W
-  - —
   - '7'
+  - W
+  - –
+  - ^
   - “
   - ᑕ
   - ᗞ
@@ -124,11 +127,11 @@ title: FONDUE-IT-PRINT-20
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-IT-PRINT-20
 volume:
-- count: 49432
+- count: 54628
   metric: characters
-- count: 23
+- count: 28
   metric: files
-- count: 1008
+- count: 1150
   metric: lines
-- count: 48
+- count: 67
   metric: regions
